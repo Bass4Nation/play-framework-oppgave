@@ -17,6 +17,7 @@ import javax.inject.*;
 public class AtomicCounter implements Counter {
 
     private final AtomicInteger atomicCounter = new AtomicInteger();
+    
 
     @Override
     public int nextCount() {

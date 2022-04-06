@@ -1,0 +1,144 @@
+[debug] > Exec(early(addDefaultCommands), None, None)
+[debug] > Exec(addDefaultCommands, None, None)
+[debug] > Exec(early(initialize), None, None)
+[debug] > Exec(initialize, None, None)
+[debug] > Exec(early(addPluginSbtFile="""C:\Users\Bass4Nation\AppData\Local\Temp\idea.sbt"""), None, None)
+[debug] > Exec(addPluginSbtFile="""C:\Users\Bass4Nation\AppData\Local\Temp\idea.sbt""", None, None)
+[debug] > Exec(boot, None, None)
+[debug] > Exec(writeSbtVersion, None, None)
+[info] Updated file C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project\project\build.properties: set sbt.version to 1.5.8
+[debug] > Exec(reload, None, None)
+[debug] > Exec(sbtStashOnFailure, None, None)
+[debug] > Exec(onFailure loadFailed, None, None)
+[debug] > Exec(loadp, None, None)
+[info] welcome to sbt 1.5.8 (Amazon.com Inc. Java 11.0.14.1)
+[debug]       Load.loadUnit: plugins took 383.1913ms
+[debug]       Load.loadUnit: defsScala took 28.1578ms
+[debug] [Loading] Scanning directory C:\Users\Bass4Nation\.sbt\1.0\plugins
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\Bass4Nation\.sbt\1.0\plugins, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 156.3161 ms
+[debug]           Load.resolveProject(global-plugins) took 209.4681ms
+[debug]         Load.loadTransitive: finalizeProject(Project(id global-plugins, base: C:\Users\Bass4Nation\.sbt\1.0\plugins, plugins: List(<none>))) took 502.0986ms
+[debug] [Loading] Done in C:\Users\Bass4Nation\.sbt\1.0\plugins, returning: (global-plugins)
+[debug]       Load.loadUnit: loadedProjectsRaw took 690.3266ms
+[debug]       Load.loadUnit: cleanEvalClasses took 0.3883ms
+[debug]     Load.loadUnit(file:/C:/Users/Bass4Nation/.sbt/1.0/plugins/, ...) took 1276.4333ms
+[debug]   Load.apply: load took 1700.3372ms
+[debug]   Load.apply: resolveProjects took 8.1738ms
+[debug]   Load.apply: finalTransforms took 83.9033ms
+[debug]   Load.apply: config.delegates took 15.4451ms
+[debug]   Load.apply: Def.make(settings)... took 741.4674ms
+[debug]   Load.apply: structureIndex took 190.7481ms
+[debug]   Load.apply: mkStreams took 4.2831ms
+[info] loading global plugins from C:\Users\Bass4Nation\.sbt\1.0\plugins
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Load.defaultLoad until apply took 7994.6471ms
+[debug]           Load.loadUnit: plugins took 37.4085ms
+[debug]           Load.loadUnit: defsScala took 0.0033ms
+[debug] [Loading] Scanning directory C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project\project
+[debug]             Load.loadUnit: mkEval took 8.2869ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.MiniDependencyTreePlugin,sbt.plugins.JUnitXmlReportPlugin,sbt.plugins.SemanticdbPlugin)
+[debug] Plugins.deducer#function took 1.8141 ms
+[info] loading settings for project project-build from idea.sbt ...
+[debug]               Load.resolveProject(project-build) took 12.0196ms
+[debug]             Load.loadTransitive: finalizeProject(Project(id project-build, base: C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project\project, plugins: List(<none>))) took 14.3228ms
+[debug] [Loading] Done in C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project\project, returning: (project-build)
+[debug]           Load.loadUnit: loadedProjectsRaw took 3106.8353ms
+[debug]           Load.loadUnit: cleanEvalClasses took 5.4811ms
+[debug]         Load.loadUnit(file:/C:/Users/Bass4Nation/Desktop/Github/play-framework-oppgave/project/project/, ...) took 3152.0611ms
+[debug]       Load.apply: load took 3154.1282ms
+[debug]       Load.apply: resolveProjects took 0.159ms
+[debug]       Load.apply: finalTransforms took 10.911ms
+[debug]       Load.apply: config.delegates took 0.3612ms
+[debug]       Load.apply: Def.make(settings)... took 107.0211ms
+[debug]       Load.apply: structureIndex took 32.333ms
+[debug]       Load.apply: mkStreams took 0.0028ms
+[info] loading project definition from C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project\project
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Unrecognized repository Scala Plugin Bundled Repository, ignoring it
+[debug]     Load.loadUnit: plugins took 3858.5712ms
+[debug]     Load.loadUnit: defsScala took 0.0032ms
+[debug] [Loading] Scanning directory C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project
+[debug]       Load.loadUnit: mkEval took 0.2286ms
+[debug] [Loading] Found non-root projects 
+[debug] [Loading] Done in C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project, returning: ()
+[debug] deducing auto plugins based on known facts Set(Atom(sbt.plugins.CorePlugin)) and clauses Clauses(Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.ScriptedPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.SbtPlugin),Set(Atom(sbt.ScriptedPlugin)))
+[debug] Clause(Atom(sbt.plugins.SemanticdbPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JUnitXmlReportPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.MiniDependencyTreePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.StructurePlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.IdeaShellPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.IvyPlugin)))
+[debug] Clause(Atom(sbt.plugins.IvyPlugin),Set(Atom(sbt.plugins.JvmPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.SemanticdbPlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.JUnitXmlReportPlugin)))
+[debug] Clause(Atom(sbt.plugins.CorePlugin),Set(Atom(sbt.plugins.Giter8TemplatePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(sbt.plugins.MiniDependencyTreePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.StructurePlugin)))
+[debug] Clause(Atom(sbt.plugins.JvmPlugin),Set(Atom(org.jetbrains.sbt.IdeaShellPlugin)))
+[debug] Clause(And(Set(Atom(sbt.plugins.CorePlugin), Atom(sbt.plugins.JvmPlugin))),Set(Atom(org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin))))
+[debug]   :: deduced result: Matched(sbt.plugins.CorePlugin,sbt.plugins.Giter8TemplatePlugin,sbt.plugins.IvyPlugin,sbt.plugins.JvmPlugin,sbt.plugins.SemanticdbPlugin,org.jetbrains.sbt.indices.SbtIntellijIndicesPlugin,sbt.plugins.JUnitXmlReportPlugin,org.jetbrains.sbt.IdeaShellPlugin,org.jetbrains.sbt.StructurePlugin,sbt.plugins.MiniDependencyTreePlugin)
+[debug] Plugins.deducer#function took 4.1464 ms
+[info] loading settings for project project from plugins.sbt ...
+[debug]         Load.resolveProject(project) took 68.6299ms
+[debug]       Load.loadTransitive: finalizeProject(Project(id project, base: C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project, plugins: List(<none>))) took 74.9283ms
+[debug] [Loading] Done in C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\project, returning: (project)
+[debug]     Load.loadUnit: loadedProjectsRaw took 651.9723ms
+[debug]     Load.loadUnit: cleanEvalClasses took 8.4357ms
+[debug]   Load.loadUnit(file:/C:/Users/Bass4Nation/Desktop/Github/play-framework-oppgave/project/, ...) took 4521.2157ms
+[debug] Load.apply: load took 4524.1089ms
+[debug] Load.apply: resolveProjects took 0.2154ms
+[debug] Load.apply: finalTransforms took 53.6677ms
+[debug] Load.apply: config.delegates took 0.4216ms
+[debug] Load.apply: Def.make(settings)... took 174.7764ms
+[debug] Load.apply: structureIndex took 57.3317ms
+[debug] Load.apply: mkStreams took 0.0031ms
+[info] set current project to project (in build file:/C:/Users/Bass4Nation/Desktop/Github/play-framework-oppgave/project/)
+[debug] > Exec(sbtPopOnFailure, None, None)
+[debug] > Exec(resumeFromFailure, None, None)
+[debug] > Exec(notifyUsersAboutShell, None, None)
+[debug] > Exec(iflast shell, None, None)
+[debug] > Exec(; set ideaPort in Global := 60814 ; idea-shell, None, None)
+[debug] > Exec(set ideaPort in Global := 60814, None, None)
+[info] Defining Global / ideaPort
+[info] The new value will be used by Compile / compile, Test / compile
+[debug] Defining 
+[debug] 	Global / ideaPort
+[debug] 
+[debug] The new value will be used by 
+[debug] 	Compile / compile
+[debug] 	Test / compile
+[info] Reapplying settings...
+[info] set current project to project (in build file:/C:/Users/Bass4Nation/Desktop/Github/play-framework-oppgave/project/)
+[debug] > Exec(idea-shell, None, None)

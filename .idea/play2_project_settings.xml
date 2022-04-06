@@ -14,7 +14,7 @@
           <value>
             <ProjectSettingsEntry>
               <option name="sourceDir" value="C:\Users\Bass4Nation\Desktop\Github\test2\app" />
-              <option name="confDir" value="C:\Users\Bass4Nation\Desktop\Github\test2\app" />
+              <option name="confDir" value="C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app" />
               <option name="templateImports">
                 <list>
                   <option value="_root_.play.twirl.api.TwirlFeatureImports._" />
@@ -44,7 +44,7 @@
                   <option value="play.libs.F" />
                 </list>
               </option>
-              <option name="uri" value="/C:/Users/Bass4Nation/Desktop/Github/test2" />
+              <option name="uri" value="/C:/Users/Bass4Nation/Desktop/Github/play-framework-oppgave" />
             </ProjectSettingsEntry>
           </value>
         </entry>
