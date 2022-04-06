@@ -1,0 +1,19 @@
+[debug] Packaging C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\play-java-starter-example_2.13-1.0-SNAPSHOT-web-assets.jar ...
+[debug] Input file mappings:
+[debug] 	public/stylesheets
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\stylesheets
+[debug] 	public/images\external.png
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\images\external.png
+[debug] 	public/images
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\images
+[debug] 	public/stylesheets\main.css
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\stylesheets\main.css
+[debug] 	public/javascripts\hello.js
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\javascripts\hello.js
+[debug] 	public/images\favicon.png
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\images\favicon.png
+[debug] 	public/javascripts
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\javascripts
+[debug] 	public/images\header-pattern.png
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\public\images\header-pattern.png
+[debug] Done packaging.

@@ -1,0 +1,13 @@
+[debug] > Exec({file:/C:/Users/Bass4Nation/Desktop/Github/test2/}root/commands, None, None)
+[debug] Evaluating tasks: commands
+[info] * SimpleCommand(preferScala2)
+[info] * SimpleCommand(idea-shell)
+[info] * SimpleCommand(rebuildIdeaIndices)
+[info] * SimpleCommand(start)
+[info] * SimpleCommand(runProd)
+[info] * SimpleCommand(testProd)
+[info] * SimpleCommand(stopProd)
+[info] * SimpleCommand(h2-browser)
+[debug] > Exec(idea-shell, None, None)
+[debug] > Exec(, None, None)
+[debug] > Exec(idea-shell, None, None)

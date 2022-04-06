@@ -1,0 +1,1261 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\CountController.java:36:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] ok(Integer.toString(counter.getCount()))
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\CountController.java:36:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] ok(Integer.toString(counter.getCount()))
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\CountController.java:36:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] ok(Integer.toString(counter.getCount()))
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\CountController.java:36:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] ok(Integer.toString(counter.getCount()))
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: play.mvc.Result cannot be converted to java.lang.String
+[error] countController.getIncrease()
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: int cannot be converted to java.lang.String
+[error] 10
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: int cannot be converted to java.lang.String
+[error] 10
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java:32:1: incompatible types: int cannot be converted to java.lang.String
+[error] "1
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: Cannot use a method returning String as a Handler for requests
+[error] GET     /                           controllers.CountController.getIncrease
+[error] one error found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 5 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 3 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\views\index.scala.html:20:30: unknown parameter name: style
+[error]     @increase(message, style = "java", testnum)
+[error]                              ^
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\views\index.scala.html:20:15: no arguments allowed for nullary method apply: (): play.twirl.api.HtmlFormat.Appendable in object increase
+[error]     @increase(message, style = "java", testnum)
+[error]               ^
+[error] four errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 7 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes:8:1: not found: type controllers
+[error] GET     /                           controllers.CountController
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:13:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: no arguments
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:13:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: no arguments
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:13:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: no arguments
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:13:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: no arguments
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:13:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: no arguments
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\IncreaseController.java:12:1: method render in class views.html.index cannot be applied to given types;
+[error]   required: java.lang.String,java.lang.String,controllers.AssetsFinder
+[error]   found: java.lang.String
+[error]   reason: actual and formal argument lists differ in length
+[error] index.render
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[success] Total time: 6506 s (01:48:26), completed Apr 6, 2022, 11:40:00 AM
+[debug] > Exec(idea-shell, None, None)

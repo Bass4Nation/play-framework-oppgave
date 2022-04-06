@@ -1,0 +1,25 @@
+[debug] Packaging C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\play-java-starter-example_2.13-1.0-SNAPSHOT-sources.jar ...
+[debug] Input file mappings:
+[debug] 	application.conf
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\conf\application.conf
+[debug] 	logback.xml
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\conf\logback.xml
+[debug] 	routes
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes
+[debug] 	Module.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\Module.java
+[debug] 	controllers\AsyncController.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\AsyncController.java
+[debug] 	controllers\CountController.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\CountController.java
+[debug] 	controllers\HomeController.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\controllers\HomeController.java
+[debug] 	filters\ExampleFilter.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\filters\ExampleFilter.java
+[debug] 	services\ApplicationTimer.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\services\ApplicationTimer.java
+[debug] 	services\AtomicCounter.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\services\AtomicCounter.java
+[debug] 	services\Counter.java
+[debug] 	  C:\Users\Bass4Nation\Desktop\Github\test2\app\services\Counter.java
+[debug] Done packaging.

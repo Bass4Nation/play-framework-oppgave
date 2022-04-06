@@ -1,0 +1,4 @@
+[debug] Copy resource mappings: 
+[debug] 	(C:\Users\Bass4Nation\Desktop\Github\test2\conf\application.conf,C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes\application.conf)
+[debug] 	(C:\Users\Bass4Nation\Desktop\Github\test2\conf\logback.xml,C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes\logback.xml)
+[debug] 	(C:\Users\Bass4Nation\Desktop\Github\test2\conf\routes,C:\Users\Bass4Nation\Desktop\Github\test2\target\scala-2.13\classes\routes)

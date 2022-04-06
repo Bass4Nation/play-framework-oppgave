@@ -1,0 +1,16 @@
+@*Lignende parameter / konstruktører Den forventer message, style og testnum for å lages. *@
+@(style: String = "java")
+
+
+@defining(play.core.PlayVersion.current) { version =>
+
+  <section id="topHeader">
+      <h1 class="topTitle"> Oppgave fra microlog</h1>
+  </section>
+  <section id="task">
+      <p> Under skal det være en knapp og en verdi. Verdien skal øke når knappen blir trykket på</p>
+      <button class="buttonIncrease" onclick="increaseNumber()">Øk nummeret under</button>
+      <p  class="numField" id="numberId"></p>
+  </section>
+
+}
