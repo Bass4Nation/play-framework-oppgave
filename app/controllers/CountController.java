@@ -37,6 +37,10 @@ public class CountController extends Controller {
 //        andre json tools, kan hende det er bare jeg som missforstod siden til Play Framework, siden så ut som alt av
 //        imports der er for scala.
 
+//        https://www.playframework.com/documentation/2.8.x/AccessingAnSQLDatabase
+//        https://www.playframework.com/documentation/2.8.x/ScalaJson
+
+
         return ok(Integer.toString(counter.nextCount())
         );
     }
