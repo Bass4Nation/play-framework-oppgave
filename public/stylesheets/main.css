@@ -158,6 +158,7 @@ button{
     border: 2px solid #181818;
     border-radius: 25px;
     box-shadow: 10px 5px 5px black;
+    /*For å få en kind of animation på kanppen - Transition*/
     transition: 0.5s;
 
 }

@@ -2,6 +2,8 @@
 # This file defines all application routes (Higher priority routes first)
 # ~~~~
 #Ikke endret noe her utenom å fjerne litt kode som ikke trenges til denne oppgaven.
+# Her alle link adresser blir ish laget. Slik at den vet hvem fil den skal bruke til visse sider.
+#Som viss man går inn på /count så vil den bruke count funksjonen i CountController.
 
 # An example controller showing a sample home page
 GET     /                           controllers.HomeController.index

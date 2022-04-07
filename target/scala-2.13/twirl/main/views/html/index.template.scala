@@ -21,35 +21,36 @@ import play.data._
 import play.core.j.PlayFormsMagicForJava._
 import scala.jdk.CollectionConverters._
 
-object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,_root_.play.twirl.api.Format[play.twirl.api.HtmlFormat.Appendable]](play.twirl.api.HtmlFormat) with _root_.play.twirl.api.Template3[String,String,AssetsFinder,play.twirl.api.HtmlFormat.Appendable] {
+object index extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.HtmlFormat.Appendable,_root_.play.twirl.api.Format[play.twirl.api.HtmlFormat.Appendable]](play.twirl.api.HtmlFormat) with _root_.play.twirl.api.Template1[AssetsFinder,play.twirl.api.HtmlFormat.Appendable] {
 
   /*
 * This template takes a two arguments, a String containing a
 * message to display and an AssetsFinder to locate static assets.
 */
-  def apply/*5.2*/(message: String, testnum: String)(implicit assetsFinder: AssetsFinder):play.twirl.api.HtmlFormat.Appendable = {
+  def apply/*5.2*/()(implicit assetsFinder: AssetsFinder):play.twirl.api.HtmlFormat.Appendable = {
     _display_ {
       {
 
 
 Seq[Any](format.raw/*6.1*/("""
 """),format.raw/*11.4*/("""
-"""),_display_(/*12.2*/main("Microlog - Oppgave")/*12.28*/ {_display_(Seq[Any](format.raw/*12.30*/("""
 
-    """),format.raw/*17.8*/("""
+"""),format.raw/*14.42*/("""
 
-"""),format.raw/*19.53*/("""
-    """),_display_(/*20.6*/increase(style = "java")),format.raw/*20.30*/("""
+"""),_display_(/*16.2*/main("Microlog - Oppgave")/*16.28*/ {_display_(Seq[Any](format.raw/*16.30*/("""
 
-""")))}),format.raw/*22.2*/("""
+    """),format.raw/*21.8*/("""
+    """),_display_(/*22.6*/oppgaven()),format.raw/*22.16*/("""
+
+""")))}),format.raw/*24.2*/("""
 """))
       }
     }
   }
 
-  def render(message:String,testnum:String,assetsFinder:AssetsFinder): play.twirl.api.HtmlFormat.Appendable = apply(message,testnum)(assetsFinder)
+  def render(assetsFinder:AssetsFinder): play.twirl.api.HtmlFormat.Appendable = apply()(assetsFinder)
 
-  def f:((String,String) => (AssetsFinder) => play.twirl.api.HtmlFormat.Appendable) = (message,testnum) => (assetsFinder) => apply(message,testnum)(assetsFinder)
+  def f:(() => (AssetsFinder) => play.twirl.api.HtmlFormat.Appendable) = () => (assetsFinder) => apply()(assetsFinder)
 
   def ref: this.type = this
 
@@ -59,9 +60,9 @@ Seq[Any](format.raw/*6.1*/("""
               /*
                   -- GENERATED --
                   SOURCE: app/views/index.scala.html
-                  HASH: 7d743b5a6a83cd0f92f848221af6530dfc446b72
-                  MATRIX: 1055->134|1220->206|1248->401|1276->403|1311->429|1351->431|1384->560|1414->614|1446->620|1491->644|1524->647
-                  LINES: 30->5|35->6|36->11|37->12|37->12|37->12|39->17|41->19|42->20|42->20|44->22
+                  HASH: 1833e7340b620054fcd820cce01ff74a2e987f36
+                  MATRIX: 1041->134|1174->174|1202->369|1232->518|1261->521|1296->547|1336->549|1369->678|1401->684|1432->694|1465->697
+                  LINES: 30->5|35->6|36->11|38->14|40->16|40->16|40->16|42->21|43->22|43->22|45->24
                   -- GENERATED --
               */
           

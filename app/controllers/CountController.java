@@ -32,7 +32,10 @@ public class CountController extends Controller {
      * requests by an entry in the <code>routes</code> config file.
      */
     public Result count() throws FileNotFoundException {
-        System.out.println("Test");
+//        Tenkte kanskje det gikk å koble til en database her. Tenkte egentlig lese/skrive til en database herifra.
+//        Men fant ikke ut på kort tid hvordan det er mulig å importe diverse normale dependecies som eks json.simple eller
+//        andre json tools, kan hende det er bare jeg som missforstod siden til Play Framework, siden så ut som alt av
+//        imports der er for scala.
 
         return ok(Integer.toString(counter.nextCount())
         );

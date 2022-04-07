@@ -12,6 +12,6 @@ async function increaseNumber() {
   //Console logger det siden da er det mulig å se tallene oppdatere seg i console i nettleseren.
   console.log(data);
 
-  //Endrer på teksen i en p tag på siden increase.scala.html.
+  //Endrer på teksen i en p tag på siden oppgaven.scala.html.
   document.getElementById("numberId").innerHTML = data
 }

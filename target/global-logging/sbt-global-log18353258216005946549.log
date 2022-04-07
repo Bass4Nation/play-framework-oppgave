@@ -44,3 +44,187 @@
 [debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
 [debug] Exporting web-assets:play-java-starter-example
 [debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:21: unknown parameter name: style
+[error]     @increase(style = "java")
+[error]                     ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:14: no arguments allowed for nullary method apply: (): play.twirl.api.HtmlFormat.Appendable in object increase
+[error]     @increase(style = "java")
+[error]              ^
+[error] two errors found
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:21: unknown parameter name: style
+[error]     @increase(style = "java")
+[error]                     ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:14: no arguments allowed for nullary method apply: (): play.twirl.api.HtmlFormat.Appendable in object increase
+[error]     @increase(style = "java")
+[error]              ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:6: not found: value oppgaven
+[error]     @oppgaven(style = "java")
+[error]      ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:15: not found: value style
+[error]     @oppgaven(style = "java")
+[error]               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:6: not found: value oppgaven
+[error]     @oppgaven(style = "java")
+[error]      ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:15: not found: value style
+[error]     @oppgaven(style = "java")
+[error]               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:6: not found: value oppgaven
+[error]     @oppgaven(style = "java")
+[error]      ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:15: not found: value style
+[error]     @oppgaven(style = "java")
+[error]               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:6: not found: value oppgaven
+[error]     @oppgaven(style = "java")
+[error]      ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:15: not found: value style
+[error]     @oppgaven(style = "java")
+[error]               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:6: not found: value oppgaven
+[error]     @oppgaven(style = "java")
+[error]      ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:15: not found: value style
+[error]     @oppgaven(style = "java")
+[error]               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:6: not found: value oppgaven
+[error]     @oppgaven(style = "java")
+[error]      ^
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\views\index.scala.html:20:15: not found: value style
+[error]     @oppgaven(style = "java")
+[error]               ^
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 2 Scala sources to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 5 Scala sources to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[warn] Canceling execution...
+[error] Cancelled: run
+[error] Cancelled: run
+[error] Use 'last' for the full log.
+[debug] > Exec(idea-shell, None, None)

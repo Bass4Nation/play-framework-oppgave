@@ -1,14 +1,16 @@
-@*Lignende parameter / konstruktører Den forventer message, style og testnum for å lages. *@
+@*Lignende parameter / konstruktører. *@
 @(style: String = "java")
 
 
 @defining(play.core.PlayVersion.current) { version =>
 
   <section id="topHeader">
-      <h1 class="topTitle"> Oppgave fra microlog</h1>
+      <h1 class="topTitle"> Oppgave fra Microlog</h1>
   </section>
   <section id="task">
       <p> Under skal det være en knapp og en verdi. Verdien skal øke når knappen blir trykket på</p>
+@*      Øker nå bare med bruk av JavaScript. Så virker bare mens den kjører. Blir det
+*       restartet blir tallet også nullstilt *@
       <button class="buttonIncrease" onclick="increaseNumber()">Øk nummeret under</button>
       <p  class="numField" id="numberId"></p>
   </section>

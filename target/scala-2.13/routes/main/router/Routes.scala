@@ -13,22 +13,22 @@ import _root_.play.libs.F
 
 class Routes(
   override val errorHandler: play.api.http.HttpErrorHandler, 
-  // @LINE:7
-  HomeController_0: controllers.HomeController,
   // @LINE:9
-  CountController_1: controllers.CountController,
+  HomeController_0: controllers.HomeController,
   // @LINE:11
+  CountController_1: controllers.CountController,
+  // @LINE:13
   Assets_2: controllers.Assets,
   val prefix: String
 ) extends GeneratedRouter {
 
    @javax.inject.Inject()
    def this(errorHandler: play.api.http.HttpErrorHandler,
-    // @LINE:7
-    HomeController_0: controllers.HomeController,
     // @LINE:9
-    CountController_1: controllers.CountController,
+    HomeController_0: controllers.HomeController,
     // @LINE:11
+    CountController_1: controllers.CountController,
+    // @LINE:13
     Assets_2: controllers.Assets
   ) = this(errorHandler, HomeController_0, CountController_1, Assets_2, "/")
 
@@ -53,7 +53,7 @@ class Routes(
   }}
 
 
-  // @LINE:7
+  // @LINE:9
   private[this] lazy val controllers_HomeController_index0_route = Route("GET",
     PathPattern(List(StaticPart(this.prefix)))
   )
@@ -71,7 +71,7 @@ class Routes(
     )
   )
 
-  // @LINE:9
+  // @LINE:11
   private[this] lazy val controllers_CountController_count1_route = Route("GET",
     PathPattern(List(StaticPart(this.prefix), StaticPart(this.defaultPrefix), StaticPart("count")))
   )
@@ -89,7 +89,7 @@ class Routes(
     )
   )
 
-  // @LINE:11
+  // @LINE:13
   private[this] lazy val controllers_Assets_versioned2_route = Route("GET",
     PathPattern(List(StaticPart(this.prefix), StaticPart(this.defaultPrefix), StaticPart("assets/"), DynamicPart("file", """.+""",false)))
   )
@@ -110,19 +110,19 @@ class Routes(
 
   def routes: PartialFunction[RequestHeader, Handler] = {
   
-    // @LINE:7
+    // @LINE:9
     case controllers_HomeController_index0_route(params@_) =>
       call { 
         controllers_HomeController_index0_invoker.call(HomeController_0.index)
       }
   
-    // @LINE:9
+    // @LINE:11
     case controllers_CountController_count1_route(params@_) =>
       call { 
         controllers_CountController_count1_invoker.call(CountController_1.count)
       }
   
-    // @LINE:11
+    // @LINE:13
     case controllers_Assets_versioned2_route(params@_) =>
       call(params.fromPath[String]("file", None)) { (file) =>
         controllers_Assets_versioned2_invoker.call(Assets_2.versioned(file))

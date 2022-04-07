@@ -35,20 +35,23 @@ object main extends _root_.play.twirl.api.BaseScalaTemplate[play.twirl.api.HtmlF
 
 
 Seq[Any](format.raw/*8.1*/("""
-"""),format.raw/*9.1*/("""<!DOCTYPE html>
-<html lang="en">
+
+
+"""),format.raw/*11.1*/("""<!DOCTYPE html>
+"""),format.raw/*12.90*/("""
+"""),format.raw/*13.1*/("""<html lang="en">
     <head>
-        """),format.raw/*12.62*/("""
-        """),format.raw/*13.9*/("""<title>"""),_display_(/*13.17*/title),format.raw/*13.22*/("""</title>
-        <link rel="stylesheet" media="screen" href=""""),_display_(/*14.54*/assetsFinder/*14.66*/.path("stylesheets/main.css")),format.raw/*14.95*/("""">
+        """),format.raw/*15.62*/("""
+        """),format.raw/*16.9*/("""<title>"""),_display_(/*16.17*/title),format.raw/*16.22*/("""</title>
+        <link rel="stylesheet" media="screen" href=""""),_display_(/*17.54*/assetsFinder/*17.66*/.path("stylesheets/main.css")),format.raw/*17.95*/("""">
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
-        <link rel="shortcut icon" type="image/png" href=""""),_display_(/*16.59*/assetsFinder/*16.71*/.path("images/favicon.png")),format.raw/*16.98*/("""">
-        <script src=""""),_display_(/*17.23*/assetsFinder/*17.35*/.path("javascripts/hello.js")),format.raw/*17.64*/("""" type="text/javascript"></script>
+        <link rel="shortcut icon" type="image/png" href=""""),_display_(/*19.59*/assetsFinder/*19.71*/.path("images/favicon.png")),format.raw/*19.98*/("""">
+        <script src=""""),_display_(/*20.23*/assetsFinder/*20.35*/.path("javascripts/hello.js")),format.raw/*20.64*/("""" type="text/javascript"></script>
     </head>
     <body>
-        """),format.raw/*21.32*/("""
-        """),_display_(/*22.10*/content),format.raw/*22.17*/("""
-    """),format.raw/*23.5*/("""</body>
+        """),format.raw/*24.32*/("""
+        """),_display_(/*25.10*/content),format.raw/*25.17*/("""
+    """),format.raw/*26.5*/("""</body>
 </html>
 """))
       }
@@ -67,9 +70,9 @@ Seq[Any](format.raw/*8.1*/("""
               /*
                   -- GENERATED --
                   SOURCE: app/views/main.scala.html
-                  HASH: 2aee1917d672b421fce7ec37dd5f7fe16720b83b
-                  MATRIX: 1178->260|1339->328|1366->329|1446->434|1482->443|1517->451|1543->456|1632->518|1653->530|1703->559|1878->707|1899->719|1947->746|1999->771|2020->783|2070->812|2164->968|2201->978|2229->985|2261->990
-                  LINES: 32->7|37->8|38->9|41->12|42->13|42->13|42->13|43->14|43->14|43->14|45->16|45->16|45->16|46->17|46->17|46->17|49->21|50->22|50->22|51->23
+                  HASH: bf9522031cbf936e4e74183863e544846c4ea1d0
+                  MATRIX: 1178->260|1339->328|1369->331|1413->436|1441->437|1505->526|1541->535|1576->543|1602->548|1691->610|1712->622|1762->651|1937->799|1958->811|2006->838|2058->863|2079->875|2129->904|2223->1060|2260->1070|2288->1077|2320->1082
+                  LINES: 32->7|37->8|40->11|41->12|42->13|44->15|45->16|45->16|45->16|46->17|46->17|46->17|48->19|48->19|48->19|49->20|49->20|49->20|52->24|53->25|53->25|54->26
                   -- GENERATED --
               */
           
