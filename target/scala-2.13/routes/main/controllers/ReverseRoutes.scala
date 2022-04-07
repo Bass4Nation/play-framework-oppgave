@@ -7,17 +7,17 @@ import play.api.mvc.Call
 import _root_.controllers.Assets.Asset
 import _root_.play.libs.F
 
-// @LINE:6
+// @LINE:7
 package controllers {
 
-  // @LINE:6
+  // @LINE:7
   class ReverseHomeController(_prefix: => String) {
     def _defaultPrefix: String = {
       if (_prefix.endsWith("/")) "" else "/"
     }
 
   
-    // @LINE:6
+    // @LINE:7
     def index: Call = {
       
       Call("GET", _prefix)
@@ -41,28 +41,13 @@ package controllers {
   }
 
   // @LINE:11
-  class ReverseAsyncController(_prefix: => String) {
-    def _defaultPrefix: String = {
-      if (_prefix.endsWith("/")) "" else "/"
-    }
-
-  
-    // @LINE:11
-    def message: Call = {
-      
-      Call("GET", _prefix + { _defaultPrefix } + "message")
-    }
-  
-  }
-
-  // @LINE:14
   class ReverseAssets(_prefix: => String) {
     def _defaultPrefix: String = {
       if (_prefix.endsWith("/")) "" else "/"
     }
 
   
-    // @LINE:14
+    // @LINE:11
     def versioned(file:String): Call = {
       
       Call("GET", _prefix + { _defaultPrefix } + "assets/" + implicitly[play.api.mvc.PathBindable[String]].unbind("file", file))

@@ -1,0 +1,554 @@
+[debug] > Exec(run, None, None)
+[debug] Evaluating tasks: Compile / run
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\Module.java:4:1: cannot find symbol
+[error]   symbol:   class ApplicationTimer
+[error]   location: package services
+[error] services.ApplicationTimer
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\Module.java:26:1: cannot find symbol
+[error]   symbol:   class ApplicationTimer
+[error]   location: class Module
+[error] ApplicationTimer
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\conf\routes:10:1: type AsyncController is not a member of package controllers
+[error] GET     /message                    controllers.AsyncController.message
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\conf\routes:10:1: type AsyncController is not a member of package controllers
+[error] GET     /message                    controllers.AsyncController.message
+[error] two errors found
+[error] (Compile / compileIncremental) Compilation failed
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources and 2 Java sources to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 3 Scala sources and 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[debug] Forcing garbage collection...
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: no suitable constructor found for FileReader(no arguments)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.FileDescriptor) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.lang.String,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error]     constructor java.io.FileReader.FileReader(java.io.File,java.nio.charset.Charset) is not applicable
+[error]       (actual and formal argument lists differ in length)
+[error] new FileReader()
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:36:1: no suitable method found for read(java.lang.String)
+[error]     method java.io.Reader.read(java.nio.CharBuffer) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to java.nio.CharBuffer)
+[error]     method java.io.Reader.read(char[]) is not applicable
+[error]       (argument mismatch; java.lang.String cannot be converted to char[])
+[error] fileReader.read
+[info] Some messages have been simplified; recompile with -Xdiags:verbose to get full output
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:9:1: package play.api.json does not exist
+[error] play.api.json.Json
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[error] C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\app\controllers\CountController.java:35:1: ';' expected
+[error] (Compile / compileIncremental) javac returned non-zero exit code
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[info] compiling 1 Scala source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 1 Java source to C:\Users\Bass4Nation\Desktop\Github\play-framework-oppgave\target\scala-2.13\classes ...
+[info] done compiling
+[debug] Forcing garbage collection...
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[debug] Exporting web-assets:play-java-starter-example
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true

@@ -41,13 +41,14 @@ Seq[Any](format.raw/*8.1*/("""
         """),format.raw/*12.62*/("""
         """),format.raw/*13.9*/("""<title>"""),_display_(/*13.17*/title),format.raw/*13.22*/("""</title>
         <link rel="stylesheet" media="screen" href=""""),_display_(/*14.54*/assetsFinder/*14.66*/.path("stylesheets/main.css")),format.raw/*14.95*/("""">
-        <link rel="shortcut icon" type="image/png" href=""""),_display_(/*15.59*/assetsFinder/*15.71*/.path("images/favicon.png")),format.raw/*15.98*/("""">
-        <script src=""""),_display_(/*16.23*/assetsFinder/*16.35*/.path("javascripts/hello.js")),format.raw/*16.64*/("""" type="text/javascript"></script>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Trirong">
+        <link rel="shortcut icon" type="image/png" href=""""),_display_(/*16.59*/assetsFinder/*16.71*/.path("images/favicon.png")),format.raw/*16.98*/("""">
+        <script src=""""),_display_(/*17.23*/assetsFinder/*17.35*/.path("javascripts/hello.js")),format.raw/*17.64*/("""" type="text/javascript"></script>
     </head>
     <body>
-        """),format.raw/*20.32*/("""
-        """),_display_(/*21.10*/content),format.raw/*21.17*/("""
-    """),format.raw/*22.5*/("""</body>
+        """),format.raw/*21.32*/("""
+        """),_display_(/*22.10*/content),format.raw/*22.17*/("""
+    """),format.raw/*23.5*/("""</body>
 </html>
 """))
       }
@@ -66,9 +67,9 @@ Seq[Any](format.raw/*8.1*/("""
               /*
                   -- GENERATED --
                   SOURCE: app/views/main.scala.html
-                  HASH: f148b090350bde68cb394e951f4ecd60ee8fdae9
-                  MATRIX: 1178->260|1339->328|1366->329|1446->434|1482->443|1517->451|1543->456|1632->518|1653->530|1703->559|1791->620|1812->632|1860->659|1912->684|1933->696|1983->725|2077->881|2114->891|2142->898|2174->903
-                  LINES: 32->7|37->8|38->9|41->12|42->13|42->13|42->13|43->14|43->14|43->14|44->15|44->15|44->15|45->16|45->16|45->16|48->20|49->21|49->21|50->22
+                  HASH: 2aee1917d672b421fce7ec37dd5f7fe16720b83b
+                  MATRIX: 1178->260|1339->328|1366->329|1446->434|1482->443|1517->451|1543->456|1632->518|1653->530|1703->559|1878->707|1899->719|1947->746|1999->771|2020->783|2070->812|2164->968|2201->978|2229->985|2261->990
+                  LINES: 32->7|37->8|38->9|41->12|42->13|42->13|42->13|43->14|43->14|43->14|45->16|45->16|45->16|46->17|46->17|46->17|49->21|50->22|50->22|51->23
                   -- GENERATED --
               */
           

@@ -6,6 +6,8 @@ import services.Counter;
 
 import javax.inject.Inject;
 import javax.inject.Singleton;
+import java.io.FileNotFoundException;
+
 
 /**
  * This controller demonstrates how to use dependency injection to
@@ -29,8 +31,12 @@ public class CountController extends Controller {
      * <code>GET</code> requests with a path of <code>/count</code>
      * requests by an entry in the <code>routes</code> config file.
      */
-    public Result count() {
-        return ok(Integer.toString(counter.nextCount()));
+    public Result count() throws FileNotFoundException {
+        System.out.println("Test");
+
+        return ok(Integer.toString(counter.nextCount())
+        );
     }
+
 
 }

@@ -10,6 +10,8 @@ import javax.inject.Inject;
  * This controller contains an action to handle HTTP requests
  * to the application's home page.
  */
+
+//For å vise frem til forsiden
 public class HomeController extends Controller {
 
     private final AssetsFinder assetsFinder;

@@ -7,10 +7,10 @@ import play.api.routing.JavaScriptReverseRoute
 import _root_.controllers.Assets.Asset
 import _root_.play.libs.F
 
-// @LINE:6
+// @LINE:7
 package controllers.javascript {
 
-  // @LINE:6
+  // @LINE:7
   class ReverseHomeController(_prefix: => String) {
 
     def _defaultPrefix: String = {
@@ -18,7 +18,7 @@ package controllers.javascript {
     }
 
   
-    // @LINE:6
+    // @LINE:7
     def index: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.HomeController.index",
       """
@@ -51,26 +51,6 @@ package controllers.javascript {
   }
 
   // @LINE:11
-  class ReverseAsyncController(_prefix: => String) {
-
-    def _defaultPrefix: String = {
-      if (_prefix.endsWith("/")) "" else "/"
-    }
-
-  
-    // @LINE:11
-    def message: JavaScriptReverseRoute = JavaScriptReverseRoute(
-      "controllers.AsyncController.message",
-      """
-        function() {
-          return _wA({method:"GET", url:"""" + _prefix + { _defaultPrefix } + """" + "message"})
-        }
-      """
-    )
-  
-  }
-
-  // @LINE:14
   class ReverseAssets(_prefix: => String) {
 
     def _defaultPrefix: String = {
@@ -78,7 +58,7 @@ package controllers.javascript {
     }
 
   
-    // @LINE:14
+    // @LINE:11
     def versioned: JavaScriptReverseRoute = JavaScriptReverseRoute(
       "controllers.Assets.versioned",
       """
